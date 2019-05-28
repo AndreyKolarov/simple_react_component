@@ -1,0 +1,31 @@
+.LoginFormApp{
+    text-align: center;
+}
+.LoginForm{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(124, 146, 139);
+    box-shadow: 1px 5px 2px gray;
+    width: 25%;
+}
+.LoginForm h1{
+    text-shadow: 2px 2px 4px #ffffff;
+}
+.LoginForm input{
+    border: none;
+    font-size:20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.LoginForm button{
+    margin: 5px;
+    padding: 5px;
+    font-size:20px;
+    width:100px;
+}
+.loginTable{
+    border:none;
+    font-size: 20px;
+    margin:auto;
+    border-spacing: 5px;
+}
